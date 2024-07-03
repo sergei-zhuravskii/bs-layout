@@ -241,6 +241,7 @@ h1 {
   font-size: 16px;
   line-height: 100%;
   font-weight: 400;
+  color: var(--blue);
 }
 
 .page__img-download-link:active > .img-download-link__title {
