@@ -136,16 +136,7 @@ h1 {
   line-height: 100%;
   font-weight: 400;
   color: var(--white);
-  /* transition: color 0.1s; */
 }
-
-/* .header__all-download-btn:hover {
-  background-color: var(--red);
-} */
-
-/* .header__all-download-btn:active {
-  background-color: var(--dark-red);
-} */
 
 .all-download-link__icon {
   margin-top: -5px;
@@ -264,23 +255,6 @@ h1 {
   color: var(--blue);
 }
 
-/* .page__img-download-link:hover > .img-download-link__icon > svg path {
-  stroke: var(--red);
-  transition: stroke 0.1s;
-} */
-
-/* .page__img-download-link:hover > .img-download-link__title {
-  color: var(--red);
-} */
-
-/* .page__img-download-link:active > .img-download-link__icon > svg path {
-  stroke: var(--dark-red);
-} */
-
-/* .page__img-download-link:active > .img-download-link__title {
-  color: var(--dark-red);
-} */
-
 .layout__description {
   margin-left: auto;
   margin-right: auto;
@@ -320,7 +294,7 @@ h1 {
   padding: 30px;
   transform: translate(-50%, -50%);
   background-color: var(--white);
-  box-shadow: 0px 0px 15px 10px rgba(4, 6, 8, 0.8);
+  box-shadow: 0px 0px 15px 1px rgba(4, 6, 8, 0.8);
   border-radius: 4px;
   cursor: auto;
 }
@@ -396,14 +370,6 @@ h1 {
 .scroll-up-btn_visible {
   opacity: 0.8;
 }
-
-/* .scroll-up-btn:hover .scroll-up-btn-fill {
-  fill: var(--light-red);
-} */
-
-/* .scroll-up-btn:active .scroll-up-btn-fill {
-  opacity: 0.7;
-} */
 
 /* @media *//* @media *//* @media *//* @media */
 /* @media *//* @media *//* @media *//* @media */
