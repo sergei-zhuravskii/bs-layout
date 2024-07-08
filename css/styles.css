@@ -127,7 +127,6 @@ h1 {
   padding-left: 50px;
   padding-right: 50px;
   background-color: var(--blue);
-  /* transition: background-color 0.1s; */
 }
 
 .header__all-download-btn span {
@@ -277,7 +276,6 @@ h1 {
   z-index: 9999;
   overflow: hidden;
   background-color: rgba(34, 60, 80, 0.7);
-  cursor: pointer;
 }
 
 .notice__modal {
@@ -295,7 +293,6 @@ h1 {
   background-color: var(--white);
   box-shadow: 0px 0px 15px 1px rgba(4, 6, 8, 0.8);
   border-radius: 4px;
-  cursor: auto;
 }
 
 .modal__description {
@@ -436,11 +433,11 @@ h1 {
   /* notice *//* modal-window */
 
   .modal__btn:hover {
-    background-color: var(--dark-red);
+    background-color: var(--red);
   }
 
   .modal__btn:active {
-    background-color: var(--dark-grey);
+    background-color: var(--dark-red);
   }
 
 }
@@ -470,7 +467,7 @@ h1 {
   /* notice *//* modal-window */
 
   .modal__btn:active {
-    background-color: var(--dark-red);
+    background-color: var(--red);
   }
 
 }
